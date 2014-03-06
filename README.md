@@ -9,8 +9,8 @@ Because this it made by an amateur __DO NOT__ use this software for any security
 Chiff69/a
 ---------
 
-This algorithm uses 72 bit to encrypt the text, but the last 3 Bits will be set to 0. This one only uses substitutions.
-
+This algorithm uses 72 bit to encrypt the text, but the last 3 Bits will be set to 0. This one only uses substitutions.   
+... and this one has got 69 lines of code... ^^
 Chiff69/b
 ---------
 
